@@ -50,5 +50,3 @@ Advanced Health Analytics: Provide deeper insights and recommendations for manag
 🤝 Contributions
 We welcome contributions to make this project even smarter! Feel free to open issues or submit pull requests.
 
-📜 License
-(Specify the license for your project here, e.g., MIT License)
